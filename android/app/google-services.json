@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489304420806",
+    "project_id": "marketplace-eeac6",
+    "storage_bucket": "marketplace-eeac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489304420806:android:cab1430ff355c8540d02c7",
+        "android_client_info": {
+          "package_name": "com.marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489304420806-4n4apt803rg8rtskd902aelh6pifh2ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa9xylU9N4V9UVRKPe4hxxBFYh0DMvbT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489304420806-4n4apt803rg8rtskd902aelh6pifh2ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
